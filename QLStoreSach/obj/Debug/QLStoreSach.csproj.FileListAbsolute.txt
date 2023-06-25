@@ -1,0 +1,324 @@
+C:\Users\Administrator\source\repos\QLStoreSach\QLStoreSach\bin\Debug\QLStoreSach.exe.config
+C:\Users\Administrator\source\repos\QLStoreSach\QLStoreSach\bin\Debug\QLStoreSach.exe
+C:\Users\Administrator\source\repos\QLStoreSach\QLStoreSach\bin\Debug\QLStoreSach.pdb
+C:\Users\Administrator\source\repos\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.Properties.Resources.resources
+C:\Users\Administrator\source\repos\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.exe
+C:\Users\Administrator\source\repos\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.pdb
+C:\Users\Administrator\source\repos\QLStoreSach\QLStoreSach\bin\Debug\CircularProgressBar.dll
+C:\Users\Administrator\source\repos\QLStoreSach\QLStoreSach\bin\Debug\WinFormAnimation.dll
+C:\Users\Administrator\source\repos\QLStoreSach\QLStoreSach\bin\Debug\CircularProgressBar.xml
+C:\Users\Administrator\source\repos\QLStoreSach\QLStoreSach\bin\Debug\WinFormAnimation.xml
+C:\Users\Administrator\source\repos\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.csproj.CopyComplete
+C:\Users\Administrator\source\repos\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.Loadinggg.resources
+C:\Users\Administrator\source\repos\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.FrmLogin.resources
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\bin\Debug\QLStoreSach.exe.config
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\bin\Debug\QLStoreSach.exe
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\bin\Debug\QLStoreSach.pdb
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\bin\Debug\CircularProgressBar.dll
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\bin\Debug\WinFormAnimation.dll
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\bin\Debug\CircularProgressBar.xml
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\bin\Debug\WinFormAnimation.xml
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.csprojAssemblyReference.cache
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.FrmLogin.resources
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.Loadinggg.resources
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.Properties.Resources.resources
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.csproj.GenerateResource.cache
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.csproj.CopyComplete
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.exe
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.pdb
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.MainForm.resources
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\bin\Debug\Guna.UI2.dll
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\bin\Debug\Bunifu.Core.dll
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.exe.config
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\QLStoreSach\bin\Debug\QLStoreSach.exe.config
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\QLStoreSach\bin\Debug\QLStoreSach.exe
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\QLStoreSach\bin\Debug\QLStoreSach.pdb
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\QLStoreSach\bin\Debug\CircularProgressBar.dll
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\QLStoreSach\bin\Debug\Guna.UI2.dll
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\QLStoreSach\bin\Debug\WinFormAnimation.dll
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\QLStoreSach\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\QLStoreSach\bin\Debug\CircularProgressBar.xml
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\QLStoreSach\bin\Debug\WinFormAnimation.xml
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.csprojAssemblyReference.cache
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.exe.config
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.FrmLogin.resources
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.MainForm.resources
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.Loadinggg.resources
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.Properties.Resources.resources
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.csproj.GenerateResource.cache
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.csproj.CopyComplete
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.exe
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.pdb
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.Password.resources
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.KhachHang.resources
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Administrator\Downloads\QLStoreSach\QLStoreSach\QLStoreSach\bin\Debug\QLStoreSach.exe.config
+C:\Users\Administrator\Downloads\QLStoreSach\QLStoreSach\QLStoreSach\bin\Debug\QLStoreSach.exe
+C:\Users\Administrator\Downloads\QLStoreSach\QLStoreSach\QLStoreSach\bin\Debug\QLStoreSach.pdb
+C:\Users\Administrator\Downloads\QLStoreSach\QLStoreSach\QLStoreSach\bin\Debug\CircularProgressBar.dll
+C:\Users\Administrator\Downloads\QLStoreSach\QLStoreSach\QLStoreSach\bin\Debug\Guna.UI2.dll
+C:\Users\Administrator\Downloads\QLStoreSach\QLStoreSach\QLStoreSach\bin\Debug\WinFormAnimation.dll
+C:\Users\Administrator\Downloads\QLStoreSach\QLStoreSach\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Administrator\Downloads\QLStoreSach\QLStoreSach\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Administrator\Downloads\QLStoreSach\QLStoreSach\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Administrator\Downloads\QLStoreSach\QLStoreSach\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Administrator\Downloads\QLStoreSach\QLStoreSach\QLStoreSach\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Administrator\Downloads\QLStoreSach\QLStoreSach\QLStoreSach\bin\Debug\CircularProgressBar.xml
+C:\Users\Administrator\Downloads\QLStoreSach\QLStoreSach\QLStoreSach\bin\Debug\WinFormAnimation.xml
+C:\Users\Administrator\Downloads\QLStoreSach\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\QLStoreSach\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.exe.config
+C:\Users\Administrator\Downloads\QLStoreSach\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.FrmLogin.resources
+C:\Users\Administrator\Downloads\QLStoreSach\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.KhachHang.resources
+C:\Users\Administrator\Downloads\QLStoreSach\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.MainForm.resources
+C:\Users\Administrator\Downloads\QLStoreSach\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.Loadinggg.resources
+C:\Users\Administrator\Downloads\QLStoreSach\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.Password.resources
+C:\Users\Administrator\Downloads\QLStoreSach\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.Properties.Resources.resources
+C:\Users\Administrator\Downloads\QLStoreSach\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\QLStoreSach\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\QLStoreSach\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.csproj.CopyComplete
+C:\Users\Administrator\Downloads\QLStoreSach\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.exe
+C:\Users\Administrator\Downloads\QLStoreSach\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.pdb
+C:\Users\Administrator\Downloads\QLStoreSach\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.FrmSach.resources
+C:\Users\Administrator\Downloads\QLStoreSach\QLStoreSach\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Administrator\Downloads\QLStoreSach\QLStoreSach\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.FrmSach.resources
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.FrmThongBao.resources
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.FrmQLKho.resources
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.FrmDanhThu.resources
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\QLStoreSach\QLStoreSach\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.FrmHome.resources
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\bin\Debug\QLStoreSach.exe.config
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\bin\Debug\QLStoreSach.exe
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\bin\Debug\QLStoreSach.pdb
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\bin\Debug\CircularProgressBar.xml
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\bin\Debug\WinFormAnimation.xml
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.csprojAssemblyReference.cache
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmLogin.resources
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.FrmHome.resources
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.FrmQLKho.resources
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.FrmSach.resources
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.KhachHang.resources
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.MainForm.resources
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmThongBao.resources
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.Loadinggg.resources
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.Password.resources
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.Properties.Resources.resources
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.csproj.GenerateResource.cache
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.csproj.CopyComplete
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.exe
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.pdb
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\bin\Debug\CircularProgressBar.dll
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\bin\Debug\Guna.UI2.dll
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\bin\Debug\WinFormAnimation.dll
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.xml
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.ChiTietSach.resources
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.ChiTietKH.resources
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.FrmBanSach.resources
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.FrmDoanhThu.resources
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.FrmThanhToan.resources
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.ChiTietDoanhThu.resources
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.FrmAddSach.resources
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\bin\Debug\QLStoreSach.exe.config
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\bin\Debug\QLStoreSach.exe
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\bin\Debug\QLStoreSach.pdb
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\bin\Debug\CircularProgressBar.dll
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\bin\Debug\Guna.UI2.dll
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\bin\Debug\WinFormAnimation.dll
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.xml
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\bin\Debug\CircularProgressBar.xml
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\bin\Debug\WinFormAnimation.xml
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmLogin.resources
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.ChiTietDoanhThu.resources
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.ChiTietKH.resources
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.ChiTietSach.resources
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.FrmAddSach.resources
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.FrmBanSach.resources
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.FrmDoanhThu.resources
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.FrmHome.resources
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.FrmQLKho.resources
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.FrmSach.resources
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.FrmThanhToan.resources
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.KhachHang.resources
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.MainForm.resources
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmThongBao.resources
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.Loadinggg.resources
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.Password.resources
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.Properties.Resources.resources
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.csproj.CopyComplete
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.exe
+C:\Users\Administrator\Downloads\[QLStoreSach]-20211227T120735Z-001\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.pdb
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\bin\Debug\QLStoreSach.exe.config
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\bin\Debug\QLStoreSach.exe
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\bin\Debug\QLStoreSach.pdb
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\bin\Debug\CircularProgressBar.dll
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\bin\Debug\Guna.UI2.dll
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\bin\Debug\WinFormAnimation.dll
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.xml
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\bin\Debug\CircularProgressBar.xml
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\bin\Debug\WinFormAnimation.xml
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.csprojAssemblyReference.cache
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmLogin.resources
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.ChiTietDoanhThu.resources
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.ChiTietKH.resources
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.ChiTietSach.resources
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.FrmAddSach.resources
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.FrmBanSach.resources
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.FrmDoanhThu.resources
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.FrmHome.resources
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.FrmQLKho.resources
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.FrmSach.resources
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.FrmThanhToan.resources
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.KhachHang.resources
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.MainForm.resources
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmThongBao.resources
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.Loadinggg.resources
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.Password.resources
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.Properties.Resources.resources
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.csproj.GenerateResource.cache
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.csproj.CopyComplete
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.exe
+C:\Users\Administrator\OneDrive\Tài liệu\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.pdb
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Administrator\OneDrive\Tài liệu\LTwin\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.csproj.AssemblyReference.cache
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmLogin.resources
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.ChiTietDoanhThu.resources
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.ChiTietKH.resources
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.ChiTietSach.resources
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.FrmAddSach.resources
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.FrmBanSach.resources
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.FrmDoanhThu.resources
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.FrmHome.resources
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.FrmQLKho.resources
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.FrmSach.resources
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.FrmThanhToan.resources
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.KhachHang.resources
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmProgram.MainForm.resources
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.FrmThongBao.resources
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.Loadinggg.resources
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.Password.resources
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.Properties.Resources.resources
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.csproj.GenerateResource.cache
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.csproj.CoreCompileInputs.cache
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.exe
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.pdb
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\bin\Debug\QLStoreSach.exe.config
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\bin\Debug\QLStoreSach.exe
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\bin\Debug\QLStoreSach.pdb
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\bin\Debug\CircularProgressBar.dll
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\bin\Debug\Guna.UI2.dll
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\bin\Debug\WinFormAnimation.dll
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.xml
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\bin\Debug\CircularProgressBar.xml
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\bin\Debug\WinFormAnimation.xml
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.csproj.CopyComplete
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\ltrinh win\[QLStoreSach]\QLStoreSach\obj\Debug\QLStoreSach.csproj.SuggestedBindingRedirects.cache
